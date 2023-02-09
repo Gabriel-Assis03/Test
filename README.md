@@ -1,0 +1,3 @@
+pikachu
+ampharos
+charcadet
