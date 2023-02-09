@@ -1,3 +1,4 @@
 pikachu
 ampharos
 charcadet
+arceus
